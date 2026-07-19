@@ -1,13 +1,15 @@
 [submodule "XiangShan"]
 	path = XiangShan
-	url = https://github.com/OpenXiangShan/XiangShan
+	url = https://github.com/GaryCAICHI/XiangShan.git
+	branch = kunminghu-v2-xvbbp
 [submodule "NEMU"]
 	path = NEMU
 	url = https://github.com/OpenXiangShan/NEMU
 	branch = xs
 [submodule "nexus-am"]
 	path = nexus-am
-	url = https://github.com/OpenXiangShan/nexus-am
+	url = https://github.com/GaryCAICHI/nexus-am.git
+	branch = kunminghu-v2-xvbbp
 [submodule "NutShell"]
 	path = NutShell
 	url = https://github.com/OSCPU/NutShell
@@ -15,5 +17,3 @@
 [submodule "DRAMsim3"]
 	path = DRAMsim3
 	url = https://github.com/OpenXiangShan/DRAMsim3.git
-[submodule "XiangShan/"]
-	url = git@github.com:GaryCAICHI/XiangShan.git
