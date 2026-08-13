@@ -4,7 +4,7 @@
 	branch = kunminghu-v2-xvbbp
 [submodule "NEMU"]
 	path = NEMU
-	url = https://github.com/OpenXiangShan/NEMU
+	url = https://github.com/GaryCAICHI/NEMU.git
 	branch = xs
 [submodule "nexus-am"]
 	path = nexus-am
